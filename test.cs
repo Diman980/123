@@ -4,4 +4,8 @@ class MyClass
   {
     Console.WriteLine("Hello World!");
   }
+  public static void Hello()
+  {
+    Console.WriteLine("Hello");
+  }
 }
